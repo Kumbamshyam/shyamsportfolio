@@ -5,7 +5,7 @@
           box-sizing: border-box;
 }
 
-h1 {
-  color: blue;
+.carousel-item {
+  height: 70vh;
 }
 /*# sourceMappingURL=portfolio.css.map */
